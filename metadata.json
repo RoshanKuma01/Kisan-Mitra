@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Parchi",
+  "description": "Farmer & trader crop bill generator, rate calculation, net profit/loss analysis, and shareable PDF parchi in Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
